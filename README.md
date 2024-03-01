@@ -10,10 +10,6 @@
 
 - 💬 Ask me about **React,React Native, Node.js, JavaScript, HTML, CSS**
 
-- 📫 Reach me at **antianavajasgarrido@gmail.com**
-
-- 📄 Learn more about my experiences at [linkedin/antia-navajas-garrido](https://www.linkedin.com/in/ant%C3%ADa-navajas-garrido-56579b213/)
-
 
 ### Connect with me 🔗 :
 <br>
