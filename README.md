@@ -66,6 +66,9 @@
 <a href="https://www.mysql.com/" target="_blank">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
+<a href="https://www.expressjs.com/" target="_blank">
+  <img alt="Express" src="https://img.shields.io/badge/Express-A8EB12?style=for-the-badge&logo=express&logoColor=white">
+</a>
 
 <!-- Version Control and Collaboration -->
 <a href="https://github.com/" target="_blank">
